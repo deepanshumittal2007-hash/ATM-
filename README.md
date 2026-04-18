@@ -47,28 +47,6 @@ ATM_Project/
 
 ---
 
-## ▶️ How to Run
-
-1. Clone the repository:
-
-```
-git clone <your-repo-link>
-```
-
-2. Navigate to the project folder:
-
-```
-cd ATM_Project
-```
-
-3. Run the program:
-
-```
-python main.py
-```
-
----
-
 ## 📌 Sample Menu
 
 ```
